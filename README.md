@@ -28,23 +28,23 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
 # Metodos disponiveis para acesso
   
     
-    * GET -  api/tasks/getTaskById/{id} <br>
-        Rertorna os dados de um tarefa por id<br>
-    * GET -  api/tasks/getTasks/ <br>
-        Rertorna todas as tarefas separadas por status<br>
-    * POST -  api/tasks/salvar/ <br>
-        Recebe os seguintes parametross<br>
-        string - id <br>
-        string - titulo<br>
-        string - descricao    <br>    
-    * GET -  api/tasks/deletar/{id} <br>
-        Recebe por get o ID da Tarefa para deletar a mesma retorna um status<br>
-    * POST - api/tasks/alterar_status<br> 
+    * GET -  api/tasks/getTaskById/{id} 
+        Rertorna os dados de um tarefa por id
+    * GET -  api/tasks/getTasks/
+        Rertorna todas as tarefas separadas por status
+    * POST -  api/tasks/salvar/
+        Recebe os seguintes parametross
+        string - id 
+        string - titulo
+        string - descricao      
+    * GET -  api/tasks/deletar/{id} 
+        Recebe por get o ID da Tarefa para deletar a mesma retorna um status
+    * POST - api/tasks/alterar_status
         Funcao responsavel atualizar os status dos tarefas
-        Recebe os seguintes parametros<br>
-        string - id <br>
-        string - status <br>
-            <b>Status possiveis<b> <br>
-            id - 1 - Aguardando <br>
-            id - 2 - Em Andamento<br>
+        Recebe os seguintes parametros
+        string - id 
+        string - status
+            <b>Status possiveis<b> 
+            id - 1 - Aguardando 
+            id - 2 - Em Andamento
             id - 4 - Concluida<br>
