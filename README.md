@@ -22,8 +22,9 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
   
 <h3>Views</h3>
     Pode ser acesso a partir da raiz do projeto <b>./public/task_view/index.php </b><br>
-
-#Metodos<br>
+<br><br><br>
+<h3>Metodos</h3>
+<br><br><br>
     
    * GET -  api/tasks/getTaskById/{id} <br>
         Rertorna os dados de um tarefa por id <br>
