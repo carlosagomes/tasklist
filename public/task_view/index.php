@@ -160,7 +160,7 @@
 </html>
 <script>
     //  DENIFE A URL QUE SERA ENVIADO O DADOS DA API
-    let url = 'http://127.0.0.1:8000/api/';
+    let url = 'http://http://tasklistsupero.herokuapp.com/api/api/';
 
     // INICIA O CARREGAMENTO DA PAGINA
     $(document).ready(function(){   
