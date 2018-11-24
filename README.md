@@ -20,14 +20,14 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
 6 - Acessar http://127.0.0.1:8000/task_view <br>
 
 
-# Views do Projeto
+#Views
     Pode ser acesso a partir da raiz do projeto <b>./public/task_view/index.php </b>
 
 
 
-# Metodos disponiveis para acesso
-  
-    
+#Metodos
+
+
     * GET -  api/tasks/getTaskById/{id} 
         Rertorna os dados de um tarefa por id
     * GET -  api/tasks/getTasks/
@@ -44,7 +44,10 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
         Recebe os seguintes parametros
         string - id 
         string - status
-            <b>Status possiveis<b> 
+            Status possiveis
             id - 1 - Aguardando 
             id - 2 - Em Andamento
-            id - 4 - Concluida<br>
+            id - 4 - Concluida
+
+
+
