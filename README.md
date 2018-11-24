@@ -3,8 +3,14 @@ O projeto consiste em um gerenciado de tarefas.<br>
 Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
 
 
-* Necessario utilização dos seguintes comandos para rodar o projeto<br>
+
 * Partindo da seguinte hiposete que você tenha instalado o composer e mysql liberado e instalado as dependencias.<br><br>
+* Links para eventuas dúvidas
+    Laravel  - https://laravel.com/docs/5.7
+    Boostrap - https://getbootstrap.com/
+    Jquery   - https://api.jquery.com/
+
+* Necessario utilização dos seguintes comandos para rodar o projeto<br>
 
 1 - Realizar o Clone do Projeto.<br>
 2 - Dentro da pasta do projeto rodar o comando <b>composer update</b><br>
