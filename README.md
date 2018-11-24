@@ -33,7 +33,7 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
         * string - id <br>
         * string - titulo<br>
         * string - descricao<br>
-<b>* GET -  api/tasks/deletar/{id} <br>
+<b>* GET -  api/tasks/deletar/{id} <br></b>
         Recebe por get o ID da Tarefa para deletar a mesma retorna um status<br>
 <b>* POST - api/tasks/alterar_status <br></b>
         Funcao responsavel atualizar os status dos tarefas<br>
