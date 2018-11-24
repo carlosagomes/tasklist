@@ -1,5 +1,6 @@
 # tasklist
-O projeto consiste em um gerenciado de tarefas.
+O projeto consiste em um gerenciado de tarefas.<br>
+Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
 
 
 #Necessario utilização dos seguintes comandos para rodar o projeto<br>
