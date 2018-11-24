@@ -5,10 +5,10 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
 
 
 * Partindo da seguinte hiposete que você tenha instalado o composer e mysql liberado e instalado as dependencias.<br><br>
-* Links para eventuas dúvidas
-    Laravel  - https://laravel.com/docs/5.7
-    Boostrap - https://getbootstrap.com/
-    Jquery   - https://api.jquery.com/
+* Links para eventuas dúvidas<br>
+    Laravel  - https://laravel.com/docs/5.7<br>
+    Boostrap - https://getbootstrap.com/<br>
+    Jquery   - https://api.jquery.com/<br>
 
 * Necessario utilização dos seguintes comandos para rodar o projeto<br>
 
