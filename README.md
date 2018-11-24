@@ -24,22 +24,22 @@ Desenvolvido em Laravel backend e o Boostrap,Jquery o frontend.
     Pode-se ter acesso a partir da raiz do projeto <b>./public/task_view/index.php </b><br>
 <br><br><br>
 <h3>Metodos</h3>
-* GET -  api/tasks/getTaskById/{id} <br>
+<b>* GET -  api/tasks/getTaskById/{id} <br></b>
         Rertorna os dados de um tarefa por id <br>
-* GET -  api/tasks/getTasks/<br>
+<b>* GET -  api/tasks/getTasks/<br></b>
         Rertorna todas as tarefas separadas por status<br>
-* POST -  api/tasks/salvar/<br>
+<b>* POST -  api/tasks/salvar/<br></b>
         Recebe os seguintes parametross <br>
         * string - id <br>
         * string - titulo<br>
         * string - descricao<br>
-* GET -  api/tasks/deletar/{id} <br>
+<b>* GET -  api/tasks/deletar/{id} <br>
         Recebe por get o ID da Tarefa para deletar a mesma retorna um status<br>
-* POST - api/tasks/alterar_status <br>
+<b>* POST - api/tasks/alterar_status <br></b>
         Funcao responsavel atualizar os status dos tarefas<br>
         Recebe os seguintes parametros<br>
-* string - id <br>
-* string - status<br>
+            * string - id <br>
+            * string - status<br>
             <b>Status possiveis</b><br>
             id - 1 - Aguardando <br>
             id - 2 - Em Andamento<br>
